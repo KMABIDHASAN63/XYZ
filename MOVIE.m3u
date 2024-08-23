@@ -1,3 +1,31 @@
 #EXTM3U x-tvg-url="epg"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wcxj8bc/bdixiptvhub.jpg" group-title="JOIN OUR TELEGRAM", t.me/bdixiptvhub
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wcxj8bc/bdixiptvhub.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
 http://bdixiptvhub/join_our_telegram.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BD | MOVIE", 1
+http://bdixiptvhub/join_our_telegram.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KOLKATA | MOVIE", 2
+http://bdixiptvhub/join_our_telegram.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HINDI | MOVIE", 3
+http://bdixiptvhub/join_our_telegram.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ANIMATION | MOVIE", 4
+http://bdixiptvhub/join_our_telegram.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOREIGN | MOVIE", 5
+http://bdixiptvhub/join_our_telegram.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SOUTH INDIA DUBBED | MOVIE", 6
+http://bdixiptvhub/join_our_telegram.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TAMIL | MOVIE", 7
+http://bdixiptvhub/join_our_telegram.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENGLISH | MOVIE", 8
+http://bdixiptvhub/join_our_telegram.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HINDI DUBBED | MOVIE", 9
+http://bdixiptvhub/join_our_telegram.m3u8
+
