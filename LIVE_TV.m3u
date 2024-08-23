@@ -224,9 +224,9 @@ http://opplextv.cyou:8080/live/4545/4545/340807.ts
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL NEWS", BBC NEWS
 
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL NEWS", AL JAZEERA
-
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL NEWS", CNN
-
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL NEWS", ABC NEWS 
 
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL NEWS", SKY NEWS
@@ -238,9 +238,9 @@ http://xtv.ooo:8080/live/global/global/221343.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL NEWS", WION
 
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL NEWS", FRANCE 24 NEWS 
-
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL NEWS", DW NEWS 
-
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", GAAN BANGLA 
 http://tv.cloudcdn.me/live.ts?channelId=97&uid=1868&deviceMac=00:1A:79:94:98:FE
@@ -261,7 +261,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", AB MASTI III
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV
-
+http://opplextv.cyou:8080/live/4545/4545/206054.ts
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV BEATS HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", ZING
@@ -271,11 +271,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", SANGEET BHOJPURI
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=247600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", JOO MUSIC
-
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", BALLE BALLE
 https://drmlive.in/yupptv/balle-balle.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", E24
-
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_256k.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", SHOW BOX
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", B4U MUSIC
@@ -345,9 +345,17 @@ https://evbr.short.gy/BDStreamHub/Goldmines.ts
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", GOLDMINES BOLLYWOOD 
 https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", BFLIX
-
+http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", B4U MOVIE
-
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", THE MOVIE CLUB
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", SHEEMAROO BOLLYWOOD 
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", BOLLWDOOD PRIMR
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", ZEE ANIMOL CINEMA
@@ -366,8 +374,8 @@ http://opplextv.cyou:8080/live/4545/4545/66266.ts
 #EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", HBO
 http://tv.cloudcdn.me/live.ts?channelId=49858&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 #EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", MOVIE ACTION 
-https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", DISCOVERY HD
 https://drmlive.in/discoveryplus/discoveryhd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", DISCOVERY BANGLA
