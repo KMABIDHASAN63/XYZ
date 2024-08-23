@@ -1,1 +1,3 @@
-
+#EXTM3U x-tvg-url="epg"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wcxj8bc/bdixiptvhub.jpg" group-title="JOIN OUR TELEGRAM", t.me/bdixiptvhub
+http://bdixiptvhub/join_our_telegram.m3u8
