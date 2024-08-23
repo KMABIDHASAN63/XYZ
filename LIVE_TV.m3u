@@ -5,7 +5,7 @@ http://bdixiptvhub/join_our_telegram.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BTV HD
 http://103.230.105.252:1935/live/btv/manifest_w1943401517.mpd
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BTV WOLD
-
+https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=OsPk7uQLZ1RO8Prwz2XZ7Q&expires=1724638588&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BTV CHATTOGRAM 
 
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", SANGAD TV
@@ -33,7 +33,7 @@ https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", MOHONA TV
 http://176.119.29.52/live.ts?channelId=103&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BIJOY TV
-
+https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=UYBMjvadrgFwf5bRQxYYng&expires=1724638611&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", SOMOY TV HD
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", INDEPENDENT TV
@@ -43,11 +43,11 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", CHANNEL 9
 http://176.119.29.52/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", CHANNEL 24
-
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=-dZW7v08pGZiOfwOx4tBPg&expires=1724638634&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", GAZI TV HD
-
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=mf_-R2IyLS5kplHVN5iqTQ&expires=1724638656&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", EKATTOR TV
-
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=ArTBQHyZ41u0x1mZ6klOzg&expires=1724638733&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", ASIAN TV HD
 https://mtlivestream.com/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", SA TV HD
@@ -61,7 +61,7 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", NEWS 24 HD
 http://176.119.29.52/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", NAGORIK TV 
-
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=EgsIcjoe-RbDPW2NREqAng&expires=1724638678&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BANGLA TV 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BANGLA TV EUROPE 
@@ -75,9 +75,9 @@ https://utube.buddyxiptv.com/@NexusTelevisionLive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", EKHON TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", GLOBAL TV
-
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-g.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", GREEN TV
-
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", CHANNEL S HD
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", ME TV
@@ -100,9 +100,9 @@ http://217.20.112.199/starjalshahd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", STAR JALSHA FHD
 http://103.151.60.174/manikvai@hoichoi24.com
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", ZEE BANGLA SD
-
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=z5fjQ-wajcF6375UZeksFQ&expires=1724638754&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", ZEE BANGLA HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", ZEE BANGLA FHD
 http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", COLORS BANGLA SD
@@ -177,7 +177,7 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS", DURONTO TV
-
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv
 #EXTINF:-1 tvg-logo="" group-title="KIDS", KIDS CARTOON 
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS", NICK BANGLA
@@ -233,7 +233,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", GAAN BANGLA 
 http://tv.cloudcdn.me/live.ts?channelId=97&uid=1868&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", SANGEET BANGLA 
-
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", ATN MUSIC
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", DOOM MUSIC BANGLA
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MUSIC INDIA 
@@ -243,13 +245,13 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", 9X JALWA
-
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", AB MASTI III
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV BEATS HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", ZING
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", YRF MUSIC
