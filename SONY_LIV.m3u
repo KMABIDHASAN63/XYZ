@@ -1,3 +1,50 @@
 #EXTM3U x-tvg-url="epg"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wcxj8bc/bdixiptvhub.jpg" group-title="JOIN OUR TELEGRAM", t.me/bdixiptvhub
 http://bdixiptvhub/join_our_telegram.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SONY TV HD 
+https://drmlive.in/Sonyliv/stream.php?id=sony-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SONY SAB HD
+https://drmlive.in/Sonyliv/stream.php?id=sony-sab-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SONY PAL
+https://drmlive.in/Sonyliv/stream.php?id=sony-pal&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SONY MARATHI
+https://drmlive.in/Sonyliv/stream.php?id=sony-marathi&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SONY AATH
+https://drmlive.in/Sonyliv/stream.php?id=sony-aath&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SONY KAL
+https://drmlive.in/Sonyliv/stream.php?id=sony-kal&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", SONY MAX 
+https://drmlive.in/Sonyliv/stream.php?id=sony-max&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", SONY MAX HD
+https://drmlive.in/Sonyliv/stream.php?id=sony-max-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", SONY MAX 2
+https://drmlive.in/Sonyliv/stream.php?id=sony-max-2&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", SONY PIX HD
+https://drmlive.in/Sonyliv/stream.php?id=sony-pix-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", SONY WAH
+https://drmlive.in/Sonyliv/stream.php?id=sony-wah&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE", SONY BBC EARTH HD
+https://drmlive.in/Sonyliv/stream.php?id=sony-bbc-earth-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS", SONY YAY
+https://drmlive.in/Sonyliv/stream.php?id=sony-yay&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 1
+https://drmlive.in/Sonyliv/stream.php?id=sony-ten-1&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 2
+https://drmlive.in/Sonyliv/stream.php?id=sony-ten-2&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 3
+https://drmlive.in/Sonyliv/stream.php?id=sony-ten-3&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 5
+https://drmlive.in/Sonyliv/stream.php?id=sony-ten-5&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 1 HD
+https://drmlive.in/Sonyliv/stream.php?id=sony-ten-1-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 2 HD
+https://drmlive.in/Sonyliv/stream.php?id=sony-ten-2-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 3 HD
+https://drmlive.in/Sonyliv/stream.php?id=sony-ten-3-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 4 HD
+https://drmlive.in/Sonyliv/stream.php?id=sony-ten-4-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 5 HD
+https://drmlive.in/Sonyliv/stream.php?id=sony-ten-5-hd&e=.m3u8
+
+
