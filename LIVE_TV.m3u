@@ -123,6 +123,8 @@ https://mhdtvweb.com/sliv/stream.php?id=sony-aath&e=.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", SUN BANGLA 
 http://opplextv.cyou:8080/live/4545/4545/245906.ts
+#EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", KHUSHBOO BANGLA
+https://cdn3.pishow.tv/live/283/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", ENTEER TEN BANGLA 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", AMAR BANGLA 
@@ -191,7 +193,7 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS", SONIC BANGLA
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS", SONIC HINDI
-
+http://ekdilhai.pro/IN_NICKHD/mpegts?token=170c54b47e21d406664eaab1e786d77f
 #EXTINF:-1 tvg-logo="" group-title="KIDS", SONY YAY
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS", CARTOON NETWORK 
@@ -208,6 +210,16 @@ https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="" group-title="KIDS", WOW KIDS
+http://opplextv.cyou:8080/live/4545/4545/314753.ts
+#EXTINF:-1 tvg-logo="" group-title="KIDS", MOTU PATLU 
+http://opplextv.cyou:8080/live/4545/4545/311373.ts
+#EXTINF:-1 tvg-logo="" group-title="KIDS", SHIVA
+http://opplextv.cyou:8080/live/4545/4545/342074.ts
+#EXTINF:-1 tvg-logo="" group-title="KIDS", CHHOTA BHEEM 
+http://opplextv.cyou:8080/live/4545/4545/315401.ts
+#EXTINF:-1 tvg-logo="" group-title="KIDS", CHU CHU TV
+http://opplextv.cyou:8080/live/4545/4545/340807.ts
 
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL NEWS", BBC NEWS
 
@@ -222,7 +234,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL NEWS", INDIA TODAY 
 
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL NEWS", GEO NEWS
-
+http://xtv.ooo:8080/live/global/global/221343.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL NEWS", WION
 
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL NEWS", FRANCE 24 NEWS 
@@ -247,17 +259,17 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", 9X JALWA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", AB MASTI III
-
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV BEATS HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", ZING
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", YRF MUSIC
-
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", SANGEET BHOJPURI
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=247600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", JOO MUSIC
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", BALLE BALLE
@@ -267,28 +279,28 @@ https://drmlive.in/yupptv/balle-balle.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", SHOW BOX
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", B4U MUSIC
-
+https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", ZOOM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", STAR PLUS HD
-
+http://217.20.112.199/starplushd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE TV HD
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", STAR BHARAT HD
-
+http://xtv.ooo:8080/live/global/global/66171.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SONY SAB HD
-
+https://mhdtvweb.com/sliv/stream.php?id=sony-sab-hd&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SONY ETV HD
-
+https://mhdtvweb.com/sliv/stream.php?id=sony-hd&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", COLORS HD
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", & TV HD
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SHEMAROO TV
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SONY PAL
-
+https://mhdtvweb.com/sliv/stream.php?id=sony-pal&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", DD NATIONAL HD
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", COLORS RISHTEY
@@ -303,48 +315,58 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", ZEE CINEMA HD
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", STAR GOLD HD
-
+http://humsab.xyz/IN_STGOLD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", SONY MAX HD
-
-#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", COLORS CINEPLEX
-
+https://mhdtvweb.com/sliv/stream.php?id=sony-max-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", COLORS CINEPLEX HD
+https://moonkerala.xyz/jcinema/stream.m3u8?id=3774155
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", COLORS CINEPLEX BOLLYWOOD 
+https://colorsscreen.com/live.php?id=1763&extension=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", COLORS CINEPLEX SUPERHIT HD
+http://opplextv.cyou:8080/live/773199/626227/66199.ts
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", & PICTURE HD
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", STAR GOLD SELECT HD
-
+http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", STAR GOLD 2 HD
-
+http://opplextv.cyou:8080/live/773199/626227/106133.ts
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", & XPLORE HD
 
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", ZEE BOLLYWOOD
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", SONY WAH
-
+http://tv.cloudcdn.me/live.ts?channelId=187&uid=1868&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", SONY MAX 2
-
+https://mhdtvweb.com/sliv/stream.php?id=sony-max-2&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", GOLDMINES
-
+https://evbr.short.gy/BDStreamHub/Goldmines.ts
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", GOLDMINES BOLLYWOOD 
+https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", BFLIX
 
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", B4U MOVIE
 
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", B4U KADAK
-
+https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", ZEE ANIMOL CINEMA
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", STAR MOVIE HD
-
+http://xtv.ooo:8080/live/global/global/66213.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", SONY PLIX HD
-
+https://mhdtvweb.com/sliv/stream.php?id=sony-pix-hd&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", & FLIX HD
-
+https://colorsscreen.com/live.php?id=1322&extension=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", MOVIE NOW HD
-
+http://opplextv.cyou:8080/live/4545/4545/66271.ts
 #EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", MNX HD
-
+http://opplextv.cyou:8080/live/4545/4545/66266.ts
+#EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", HBO
+http://tv.cloudcdn.me/live.ts?channelId=49858&uid=13556&deviceMac=00:1A:79:AB:DF:A6
+#EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", MOVIE ACTION 
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", DISCOVERY HD
 https://drmlive.in/discoveryplus/discoveryhd.m3u8
@@ -362,8 +384,8 @@ http://opplextv.cyou:8080/live/773199/626227/109977.ts
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", NAT GEO WILD
 http://opplextv.cyou:8080/live/4545/4545/206286.ts
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", ZEE ZEST HD
-
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", FOX LIFE HD
+http://opplextv.cyou:8080/live/4545/4545/66278.ts
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", HGTV
 https://drmlive.in/discoveryplus/hgtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", TLC HD
@@ -386,21 +408,21 @@ https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", PEACE TV BANGLA
-
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", PEACE TV ENGLISH 
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", ISLAM BANGLA 
-
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", DEEN TV
-
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", MADINA TV
-
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", MADANI TV
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", MAKKAH TV
-
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", IQRA BANGLA
-
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", AL SUNNAH
-
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", AL QURAN
-
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", ATN ISLAMIC TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", MADINA LIVE 24x7
