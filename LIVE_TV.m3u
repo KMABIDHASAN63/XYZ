@@ -299,8 +299,8 @@ https://mhdtvweb.com/sliv/stream.php?id=sony-hd&e=.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SHEMAROO TV
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SONY PAL
-https://mhdtvweb.com/sliv/stream.php?id=sony-pal&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SONY KAL
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", DD NATIONAL HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", COLORS RISHTEY
@@ -327,7 +327,7 @@ https://epiconvh.s.llnwi.net/filamchi/master_864.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", SONY MAX HD
 https://mhdtvweb.com/sliv/stream.php?id=sony-max-hd&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", COLORS CINEPLEX HD
-https://moonkerala.xyz/jcinema/stream.m3u8?id=3774155
+http://tv.cloudcdn.me/live.ts?channelId=156&uid=5284&deviceMac=00:1A:79:17:C0:71
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", COLORS CINEPLEX BOLLYWOOD 
 https://colorsscreen.com/live.php?id=1763&extension=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", COLORS CINEPLEX SUPERHIT HD
@@ -361,7 +361,7 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", BOLLWDOOD PRIMR
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", BOLLYWOOD HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", ZEE ANIMOL CINEMA
