@@ -11,15 +11,15 @@ https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=OsPk7uQLZ1RO8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", SANGAD TV
 
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", ATN BANGLA HD
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_bangla
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", CHANNEL I HD
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
+https://utube.buddyxiptv.com/@channelinews.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", EKUSHEY TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", NTV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", RTV HD
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BOISHAKHI TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BANGLA VISION HD
@@ -57,9 +57,9 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", DEEPTO TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", DBC NEWS HD
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
+https://utube.buddyxiptv.com/@dbcnewstv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", NEWS 24 HD
-http://176.119.29.52/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=news_24_hd
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", NAGORIK TV 
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=EgsIcjoe-RbDPW2NREqAng&expires=1724638678&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BANGLA TV 
@@ -73,7 +73,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", NEXUS TV HD
 https://utube.buddyxiptv.com/@NexusTelevisionLive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", EKHON TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+https://utube.buddyxiptv.com/@ekhontv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", GLOBAL TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-g.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", GREEN TV
