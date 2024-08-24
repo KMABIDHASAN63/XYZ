@@ -9,7 +9,7 @@ https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=OsPk7uQLZ1RO8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BTV CHATTOGRAM 
 
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", SANGAD TV
-http://opplextv.cyou:8080/live/4545/4545/245940.ts
+
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", ATN BANGLA HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", CHANNEL I HD
@@ -302,22 +302,28 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SONY PAL
 https://mhdtvweb.com/sliv/stream.php?id=sony-pal&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", DD NATIONAL HD
-
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", COLORS RISHTEY
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ISHARA
-
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", NAZARA
+https://epiconvh.s.llnwi.net/nazara/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", DANGAL
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE ANIMOL
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", BIG MAGIC
 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SHEMAROO BOLLYDOOD
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", ZEE CINEMA HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", STAR GOLD HD
 http://humsab.xyz/IN_STGOLD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", BHEJPURI CINEMA
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", FILAMCHI
+https://epiconvh.s.llnwi.net/filamchi/master_864.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", SONY MAX HD
 https://mhdtvweb.com/sliv/stream.php?id=sony-max-hd&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", COLORS CINEPLEX HD
