@@ -2,81 +2,81 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wcxj8bc/bdixiptvhub.jpg" group-title="JOIN OUR TELEGRAM", t.me/bdixiptvhub
 http://bdixiptvhub/join_our_telegram.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BTV HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BANGlA REGIONAL", BTV HD
 http://103.230.105.252:1935/live/btv/manifest_w1943401517.mpd
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BTV WOLD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/1/logo/240x240/mobile_logo_310000001673183767.png" group-title="BANGlA REGIONAL", BTV WOLD
 https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=OsPk7uQLZ1RO8Prwz2XZ7Q&expires=1724638588&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BTV CHATTOGRAM 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/418/logo/240x240/mobile_logo_799556001673182578.png" group-title="BANGlA REGIONAL", BTV CHATTOGRAM 
 
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", SANGAD TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/64/logo/240x240/mobile_logo_760805001655890979.png" group-title="BANGlA REGIONAL", SANGAD TV
 
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", ATN BANGLA HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="BANGlA REGIONAL", ATN BANGLA HD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_bangla
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", CHANNEL I HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="BANGlA REGIONAL", CHANNEL I HD
 https://utube.buddyxiptv.com/@channelinews.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", EKUSHEY TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", NTV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGlA REGIONAL", NTV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", RTV HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="BANGlA REGIONAL", RTV HD
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BOISHAKHI TV HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BANGlA REGIONAL", BOISHAKHI TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BANGLA VISION HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" group-title="BANGlA REGIONAL", BANGLA VISION HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", DESH TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="BANGlA REGIONAL", DESH TV
 https://utube.buddyxiptv.com/@livedeshtv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", ATN NEWS HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BANGlA REGIONAL", ATN NEWS HD
 http://176.119.29.52/live.ts?channelId=83&uid=7045&deviceMac=00:1A:79:0A:3B:36
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", MY TV HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png" group-title="BANGlA REGIONAL", MY TV HD
 https://mytvbangla.com/0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", MOHONA TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png" group-title="BANGlA REGIONAL", MOHONA TV
 http://176.119.29.52/live.ts?channelId=103&uid=8164&deviceMac=00:1A:79:17:D4:A1
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BIJOY TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="BANGlA REGIONAL", BIJOY TV
 https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=UYBMjvadrgFwf5bRQxYYng&expires=1724638611&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", SOMOY TV HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="BANGlA REGIONAL", SOMOY TV HD
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", INDEPENDENT TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="BANGlA REGIONAL", INDEPENDENT TV
 https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", MAASRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", CHANNEL 9
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BANGlA REGIONAL", CHANNEL 9
 http://176.119.29.52/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", CHANNEL 24
 https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=-dZW7v08pGZiOfwOx4tBPg&expires=1724638634&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", GAZI TV HD
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=mf_-R2IyLS5kplHVN5iqTQ&expires=1724638656&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", EKATTOR TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BANGlA REGIONAL", EKATTOR TV
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=ArTBQHyZ41u0x1mZ6klOzg&expires=1724638733&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", ASIAN TV HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="BANGlA REGIONAL", ASIAN TV HD
 https://mtlivestream.com/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", SA TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", JAMUNA TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BANGlA REGIONAL", JAMUNA TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", DEEPTO TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", DBC NEWS HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BANGlA REGIONAL", DBC NEWS HD
 https://utube.buddyxiptv.com/@dbcnewstv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", NEWS 24 HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png" group-title="BANGlA REGIONAL", NEWS 24 HD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=news_24_hd
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", NAGORIK TV 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGlA REGIONAL", NAGORIK TV 
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=EgsIcjoe-RbDPW2NREqAng&expires=1724638678&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BANGLA TV 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png" group-title="BANGlA REGIONAL", BANGLA TV 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BANGLA TV EUROPE 
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", ANANDA TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png" group-title="BANGlA REGIONAL", ANANDA TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", MOVIE BANGlA
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png" group-title="BANGlA REGIONAL", MOVIE BANGlA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", NEXUS TV HD
 https://utube.buddyxiptv.com/@NexusTelevisionLive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", EKHON TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/274186/logo/240x240/mobile_logo_177557001706616684.png" group-title="BANGlA REGIONAL", EKHON TV
 https://utube.buddyxiptv.com/@ekhontv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", GLOBAL TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png" group-title="BANGlA REGIONAL", GLOBAL TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-g.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", GREEN TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/274798/logo/240x240/mobile_logo_356775001706617066.png" group-title="BANGlA REGIONAL", GREEN TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", CHANNEL S HD
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/chunks.m3u8
@@ -86,7 +86,7 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", JAGO NEWS 24
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", RAJDHANI TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/177468/logo/240x240/mobile_logo_382457001694586201.png" group-title="BANGlA REGIONAL", RAJDHANI TV
 https://cdn.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGlA REGIONAL", BONGO MOVIES
 
