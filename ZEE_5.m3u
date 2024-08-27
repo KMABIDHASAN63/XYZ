@@ -2,117 +2,49 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wcxj8bc/bdixiptvhub.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
 http://bdixiptvhub/join_our_telegram.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/Zeetvhd1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE YUVA
-https://jio.drmlive.au/jio/bpk-tv/Zee_Yuva_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE MARATHI
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi1/default/Zeemarathi1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", & TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/Andtvhd1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE ANMOL
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/Zeeanmol1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE BANGLA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE TAMIL
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/Zeetamil1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE TELUGU 
-https://jio.drmlive.au/jio/bpk-tv/Zee_Telugu_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE KANNADA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada1/default/Zeekannada1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE SARTHAK
-https://jio.drmlive.au/jio/bpk-tv/Sarthak_TV_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE CAFE HD
-https://zee5.drmlive.au/cmaf/live/2105539/ZeecafeHDELE/master_audinit.mp4
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE TV
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv1/default/zeetv1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE TELUGU HD
-https://jio.drmlive.au/jio/bpk-tv/Zee_Telugu_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE TAMIL HD
-https://jio.drmlive.au/jio/bpk-tv/Zee_Tamil_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", BIG MAGIC
-https://zee5.drmlive.au/cmaf/live/2105176/BigMagicELE/master_240pinit.mp4
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE MARATHI HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd1/default/Zeemarathihd1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE KANNADA HD
-https://jio.drmlive.au/jio/bpk-tv/Zee_Kannada_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", & TV
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv1/default/Andtv1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", ZEE PANGABI
-https://jio.drmlive.au/jio/bpk-tv/Zee_Ganga_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", ZEE TALKIES
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies1/default/Zeetalkies1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", ZEE CINEMA HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1-audio_208482_und=208000-video=4237600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", & PICTURES HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1-audio_208482_und=208000-video=4237600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", ZEE CINEMALU
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/Zeecinemalu1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", ZEE ANMOL CINEMA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", & XPLORE HD
-https://zee5.drmlive.au/cmaf/live/2105553/AndxploreHDELE/master_audinit.mp4
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", ZEE CINEMA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/Zeecinema1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", ZEE BOLLYWOOD 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/Zeebollywood1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", ZEE ACTION
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", ZEE BANGLA CINEMA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglacinema1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", & FLIX HD
-https://zee5.drmlive.au/cmaf/live/2105517/AndFlixHDELE/master_720pinit.mp4
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", & PRIVE HD
-https://zee5.drmlive.au/cmaf/live/2104969/AndPriveHDELENEW/master_audinit.mp4
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", ZEE TALKIES HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/Zeetalkieshd1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", ZEE CINEMALU HD
-https://jio.drmlive.au/jio/bpk-tv/Zee_Cinemalu_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", ZEE CLASSIC
-https://jio.drmlive.au/jio/bpk-tv/Zee_Classic_SD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", ZEE PICCHAR HD
-https://jio.drmlive.au/jio/bpk-tv/Zee_Picchar_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", ZEE PICTURES 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures1/default/Andpictures1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", ZEE CHITRAMANDIR
-https://jio.drmlive.au/jio/bpk-tv/Zee_Chitramandir_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS", ZEE TAAS
-https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS", ZEE NEWS
-https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS", CHARDIKIA TIME TV
-https://jio.drmlive.au/jio/bpk-tv/Chardikla_Time_TV_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS", ZEE UP UK
-https://duw35ict5q7th.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS", ZEE BHARAT
-https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS", ZEE PUNJAB HP HARYANA
-https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS", NEWS 18 PUNJAB HARYANA
-https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS", ZEE RAJASTHAN
-https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS", ZEE BHIAR JHARKHAND
-https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS", ZEE DELHI NCR HARYANA
-https://d2s40ae9uabrl.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS", ZEE SALAAM
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesalaam1/default/Zeesalaam1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS", ZEE 24 KALAK
-https://d2i4me5ac6ausm.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS", ZEE KAMNADA NEWS
-https://jio.drmlive.au/jio/bpk-tv/Zee_Kannada_News_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", ZING
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/Zing1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BUSINESS", ZEE BUSINESS 
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="ZEE5",& Pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="ZEE5",ZEE Bangla HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="ZEE5",ZEE Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="ZEE5",& tv HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="ZEE5",Zee tv HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="ZEE5",Zee Anmol
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11930-j9l5hv1c-v1/imageContent-11930-j9l5hv1c-m1.png" group-title="ZEE5",Zee Marathi HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd1/default/zeemarathihd1.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" group-title="ZEE5",Zee Tamil
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/zeetamil1.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33827-jo5kcr1c-v4/imageContent-33827-jo5kcr1c-m5.png" group-title="ZEE5",Zee Kannada
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada1/default/zeekannada1.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12207-j9qlt5vk-v2/imageContent-12207-j9qlt5vk-m2.png" group-title="ZEE5",Zee Sarthak
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak1/default/zeesarthak1.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="ZEE5",Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="ZEE5",Zing
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8846-j7pq3jmo-v2/imageContent-8846-j7pq3jmo-m3.png" group-title="ZEE5",Zee Marathi
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi1/default/zeemarathi1.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png" group-title="ZEE5",Zee Talkies HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png" group-title="ZEE5",Zee Cinemalu
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="ZEE5",Zee Business 
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE", ZEE ZEST
-https://jio.drmlive.au/jio/bpk-tv/Zee_Zest_SD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE", ZEE ZEST HD
-https://zee5.drmlive.au/cmaf/live/2105513/ZeeZestHDELE/master_aud_20240823T105500_34330.mp4
-
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="ZEE5",Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee Bangla 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/Zeecinema1.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="ZEE5",Zee Animol Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="ZEE5",Zee Bharat
+https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="ZEE5",Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="ZEE5",Zee 24 Taas
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
