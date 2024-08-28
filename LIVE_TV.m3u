@@ -144,10 +144,10 @@ http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8?token=2be3b471b82cd70d481ddcc9ceaa6
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=5284&deviceMac=00:1A:79:17:C0:71
 
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA", SONY AATH 
-http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13603&deviceMac=00:1A:79:64:B4:A6
+https://mhdtvweb.com/sliv/stream.php?id=sony-aath&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="KOLKATA", SONY AATH HD
-https://sliv.drmlive.in/2011641/SonyAathSD/master.m3u8
+https://mhdtvweb.com/sliv/stream.php?id=sony-aath&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA", ZEE BANGLA CINEMA 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
@@ -198,7 +198,7 @@ http://tv.cloudcdn.me/live.ts?channelId=40476&uid=13603&deviceMac=00:1A:79:64:B4
 https://colorsscreen.com/live.php?id=1345&extension=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="KIDS", SONY YAY HINDI
-https://mhdtvweb.com/sliv/stream.php?id=sony-yay&e=.m3u8
+https://mhdtvweb.com/sliv/stream.php?id=sony-yay&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="KIDS", SONY YAY BANGLA
 http://103.151.60.174:553/
@@ -289,9 +289,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", STAR BHARAT HD
 http://tv.cloudcdn.me/live.ts?channelId=195&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", SONY SAB HD
-https://mhdtvweb.com/sliv/stream.php?id=sony-sab-hd&e=.m3u8
+https://mhdtvweb.com/sliv/stream.php?id=sony-sab-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", SONY ENTERTAINMENT
-https://mhdtvweb.com/sliv/stream.php?id=sony-hd&e=.m3u8
+https://mhdtvweb.com/sliv/stream.php?id=sony-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", COLORS HD
 https://colorsscreen.com/live.php?id=144&extension=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vYnZkKk/20240803-110602.png" group-title="INDIA HINDI", & TV HD
@@ -299,7 +299,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", SHEMAROO TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png" group-title="INDIA HINDI", SONY KAL
-https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
+https://mhdtvweb.com/sliv/stream.php?id=sony-kal&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", DD NATIONAL HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", COLORS RISHTEY
@@ -317,7 +317,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYc6mkF/20240816-213259.png" group-title="HINDI MOVIES", FILAMCHI
 https://epiconvh.s.llnwi.net/filamchi/master_864.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", SONY MAX HD
-https://mhdtvweb.com/sliv/stream.php?id=sony-max-hd&e=.m3u8
+https://mhdtvweb.com/sliv/stream.php?id=sony-max-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI MOVIES", COLORS CINEPLEX HD
 http://tv.cloudcdn.me/live.ts?channelId=156&uid=5284&deviceMac=00:1A:79:17:C0:71
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", COLORS CINEPLEX BOLLYWOOD 
@@ -335,9 +335,9 @@ http://tv.cloudcdn.me/live.ts?channelId=49859&uid=13603&deviceMac=00:1A:79:64:B4
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", ZEE BOLLYWOOD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", SONY WAH
-http://xtv.ooo:8080/live/naqeebkhan/naqeebkhan123/112979.ts
+https://mhdtvweb.com/sliv/stream.php?id=sony-wah&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", SONY MAX 2
-https://mhdtvweb.com/sliv/stream.php?id=sony-max-2&e=.m3u8
+https://mhdtvweb.com/sliv/stream.php?id=sony-max-2&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YTKB04p/20240816-214201.png" group-title="HINDI MOVIES", MINIPLEX HD
 http://tv.cloudcdn.me/live.ts?channelId=215&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fdf43V/20240809-081051.png" group-title="HINDI MOVIES", GOLDMINES
@@ -384,7 +384,7 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCDdc00/20240827-090724.png" group-title="DOCUMENTORY", TRAVEL HD
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", SONY BBC EARTH HD
-https://fmrx.short.gy/bdixiptvhub/sony_bbc_earth_hd.m3u8
+https://mhdtvweb.com/sliv/stream.php?id=sony-bbc-earth-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cCtG9XS/20240803-112351.png" group-title="DOCUMENTORY", LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ngNhxGh/20240803-165452.png" group-title="DOCUMENTORY", WILD EARTH
