@@ -189,7 +189,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://colorsscreen.com/live.php?id=545&extension=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" group-title="KIDS", NICK BANGLA
-http://14.102.123.50:5001/live/1341.m3u8
+http://xtv.ooo:8080/live/8798/8798/150482.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rzSwnH/20240803-101416.png" group-title="KIDS", SONIC HINDI
 http://tv.cloudcdn.me/live.ts?channelId=40476&uid=13603&deviceMac=00:1A:79:64:B4:A6
@@ -225,7 +225,7 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS", SUPER HUNGAMA
-https://sliv.drmlive.in/2011746/SonyYaySD/master.m3u8
+http://xtv.ooo:8080/live/8798/8798/381135.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS", HUNGAMA
 http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
@@ -298,6 +298,8 @@ https://colorsscreen.com/live.php?id=144&extension=.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", SHEMAROO TV
 
+#EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", B4U BHOJPURI 
+http://xtv.ooo:8080/live/8798/8798/355988.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png" group-title="INDIA HINDI", SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", DD NATIONAL HD
