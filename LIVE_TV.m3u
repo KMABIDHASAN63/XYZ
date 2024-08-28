@@ -186,7 +186,7 @@ http://tv.cloudcdn.me/live.ts?channelId=74553&uid=13433&deviceMac=00:1A:79:00:97
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="KIDS", NICK HINDI
-https://colorsscreen.com/live.php?id=545&extension=.m3u8
+http://xtv.ooo:8080/live/8798/8798/150482.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" group-title="KIDS", NICK BANGLA
 http://14.102.123.50:5001/live/1341.m3u8
@@ -225,7 +225,7 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS", SUPER HUNGAMA
-https://sliv.drmlive.in/2011746/SonyYaySD/master.m3u8
+http://xtv.ooo:8080/live/8798/8798/381135.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS", HUNGAMA
 http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
@@ -306,7 +306,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=158&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", NAZARA
 https://epiconvh.s.llnwi.net/nazara/master.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", B4U BHEJPURI
+http://xtv.ooo:8080/live/8798/8798/355988.ts
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", ZEE CINEMA HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", STAR GOLD HD
