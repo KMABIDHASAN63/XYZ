@@ -48,3 +48,13 @@ https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="ZEE5",Zee 24 Taas
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee Zest HD
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/master.m3u8?hdntl=exp=1724924761~acl=%2f*~data=hdntl~hmac=8eba64d9c23b376e6f825e0b97751f7bc3f76676a2a213e0d08c56d038b5c54f
+#EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee Cafe HD
+
+#EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee 
+
+#EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee 
+
+#EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee 
+
