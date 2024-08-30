@@ -13,6 +13,9 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wcxj8bc/bdixiptvhub.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
 http://bdixiptvhub/join_our_telegram.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wcxj8bc/bdixiptvhub.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", ABID HASAN
+http://bdixiptvhub/join_our_telegram.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ny0F96y/20240827-010202.png" group-title="TOFFEE X BDIX IPTV HUB", T SPORTS LIVE 1
 https://bdix.proximitybd.xyz/buka.php?id=live-01
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXSPddd/20240827-010107.png" group-title="TOFFEE X BDIX IPTV HUB", T SPORTS LIVE 2
