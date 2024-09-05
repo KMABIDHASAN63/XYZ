@@ -120,7 +120,7 @@ http://tv.cloudcdn.me/live.ts?channelId=116&uid=13603&deviceMac=00:1A:79:64:B4:A
 http://tv.cloudcdn.me/live.ts?channelId=116592&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA", STAR JALSHA FHD
-
+http://xtv.ooo:8080/live/874246786/743567899/245898.ts
 
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA", ZEE BANGLA 
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
@@ -141,7 +141,7 @@ http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
 http://14.102.123.50:5001/live/1657.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA", JALSHA MOVIES 
-
+http://xtv.ooo:8080/live/874246786/743567899/245900.ts
 
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA", JALSHA MOVIES HD
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=13433&deviceMac=00:1A:79:00:97:A1
