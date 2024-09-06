@@ -9,144 +9,151 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wcxj8bc/bdixiptvhub.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
 http://bdixiptvhub/join_our_telegram.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wcxj8bc/bdixiptvhub.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", ABID HASAN
-http://bdixiptvhub/join_our_telegram.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ny0F96y/20240827-010202.png" group-title="TOFFEE X BDIX IPTV HUB", T SPORTS LIVE 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ny0F96y/20240827-010202.png" group-title="EXCLUSIVE", T SPORTS LIVE 1
 https://bdix.proximitybd.xyz/jason.php?id=live-01
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KXSPddd/20240827-010107.png" group-title="TOFFEE X BDIX IPTV HUB", T SPORTS LIVE 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXSPddd/20240827-010107.png" group-title="EXCLUSIVE", T SPORTS LIVE 2
 https://bdix.proximitybd.xyz/jason.php?id=live-02
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GF2Gt27/image-1.webp" group-title="TOFFEE X BDIX IPTV HUB", ZEE TV HD
+#EXTINF:-1 tvg-logo="" group-title="EXCLUSIVE", 
+
+#EXTINF:-1 tvg-logo="" group-title="EXCLUSIVE", 
+
+#EXTINF:-1 tvg-logo="" group-title="EXCLUSIVE", 
+
+#EXTINF:-1 tvg-logo="" group-title="EXCLUSIVE", 
+
+#EXTINF:-1 tvg-logo="" group-title="EXCLUSIVE", 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GF2Gt27/image-1.webp" group-title="EXCLUSIVE", ZEE TV HD
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q9kdNV7/image.webp" group-title="TOFFEE X BDIX IPTV HUB", ZEE CINEMA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q9kdNV7/image.webp" group-title="EXCLUSIVE", ZEE CINEMA HD
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="TOFFEE X BDIX IPTV HUB", ZEE BANGLA
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="EXCLUSIVE", ZEE BANGLA
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" group-title="TOFFEE X BDIX IPTV HUB", ZEE BANGLA CINEMA
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" group-title="EXCLUSIVE", ZEE BANGLA CINEMA
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="TOFFEE X BDIX IPTV HUB", SONY ENTERTAINMENT TELEVISION  
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="EXCLUSIVE", SONY ENTERTAINMENT TELEVISION  
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="TOFFEE X BDIX IPTV HUB", SONY MAX
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="EXCLUSIVE", SONY MAX
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="TOFFEE X BDIX IPTV HUB", B4U MOVIE
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="EXCLUSIVE", B4U MOVIE
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="TOFFEE X BDIX IPTV HUB", B4U MUSIC
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="EXCLUSIVE", B4U MUSIC
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/b4umusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png" group-title="TOFFEE X BDIX IPTV HUB", TOFFEE DRAMAS
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png" group-title="EXCLUSIVE", TOFFEE DRAMAS
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png" group-title="TOFFEE X BDIX IPTV HUB", TOFFEE MOVIES
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png" group-title="EXCLUSIVE", TOFFEE MOVIES
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png" group-title="TOFFEE X BDIX IPTV HUB", TOFFEE SPORTS
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png" group-title="EXCLUSIVE", TOFFEE SPORTS
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TOFFEE X BDIX IPTV HUB", BONGO MOVIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/b5VkjPc/20240907-023057.png" group-title="EXCLUSIVE", BONGO MOVIES
 lhttps://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
-#EXTINF:-1 tvg-logo="" group-title="TOFFEE X BDIX IPTV HUB", BONGO DRAMAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4VtHQpf/20240907-023221.png" group-title="EXCLUSIVE", BONGO DRAMAS
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BANGLADESH", BTV HD 
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/1/logo/240x240/mobile_logo_310000001673183767.png" group-title="BANGLADESH", BTV WORLD
-
+https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=4RxN9w12ViRUwaDpeQVyLg&expires=1725871091&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rQmTNKf/20240907-003057.png" group-title="BANGLADESH", SANGSAD TV
-
+https://edge01.iptv.digijadoo.net/live/sangsad_tv/playlist.m3u8?md5=5W7d6kOPTkYsyudDOUpSWA&expires=1725871121&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="BANGLADESH", ATN BANGLA HD
-
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=R5f704wDdeIYNs14_09rPQ&expires=1725871138&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zPFbF67/20240826-230349.png" group-title="BANGLADESH", EKUSHEY TV HD
-
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=oBDLm4kRtBvZa3gNcKrijA&expires=1725871163&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGLADESH", NTV 
-
+https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=cv1oPtsU4zMnYyaVpOJ1sQ&expires=1725871178&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="BANGLADESH", RTV HD
-
+https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=yeXLh4KIXMrOAs9uLO3dSA&expires=1725871190&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="BANGLADESH", CHANNEL I HD
-
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=rOgt0cKRNuFVUmpemXfTdA&expires=1725871206&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" group-title="BANGLADESH", BANGLA VISION HD 
-
+https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=dm2texnD5CJ8-XksBWxIsA&expires=1725871219&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BANGLADESH", BOISHAKHI TV HD
-
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=N3cj9J4MmOL-KyhiKMvK4A&expires=1725871230&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="BANGLADESH", DESH TV
-
+https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=TYmfGkBENQPiyVUok0ncoA&expires=1725871246&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BANGLADESH", ATN NEWS HD
-
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=gpB_ajskCyNFC7IYF4tbiQ&expires=1725871263&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png" group-title="BANGLADESH", MY TV HD
-
+https://edge01.iptv.digijadoo.net/live/my_tv/playlist.m3u8?md5=lbDMUYFO4rKkRIbGZct6fQ&expires=1725871290&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png" group-title="BANGLADESH", MOHONA TV HD
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="BANGLADESH", BIJOY TV HD
-
+https://edge01.iptv.digijadoo.net/live/my_tv/playlist.m3u8?md5=lbDMUYFO4rKkRIbGZct6fQ&expires=1725871290&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="BANGLADESH", SOMOY TV HD
-
+https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=FletbmKGKUAFRHsmQ77PWw&expires=1725871325&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="BANGLADESH", INDEPENDENT TV
-
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=rvawFlPHS3o9BVWqAFczqg&expires=1725871347&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BANGLADESH", MAASRANGA TV HD
-
+https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=gTqUlK6HH6U3KOEWIIMv6Q&expires=1725871406&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BANGLADESH", CHANNEL 9 HD
-
+https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=qNetcatYnQNGPvFNdjVHiA&expires=1725871424&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="BANGLADESH", CHANNEL 24 HD
-
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=mmPqX21NBbJOjoNvC5Qisg&expires=1725871452&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HrJVFC8/20240826-230453.png" group-title="BANGLADESH", GAZI TV HD
-
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=xOtZQD2ohJBc8PnjBuEaUg&expires=1725871465&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BANGLADESH", EKATTOR TV HD
-
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=TfC5iYAk27F06m8Ugmp1zw&expires=1725871494&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="BANGLADESH", ASIAN TV HD
-
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=kzXMWAqJpfcr3qijVbIFcw&expires=1725871520&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png" group-title="BANGLADESH", SATV HD
-
+https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=0l6MZc4Kk7_bOIg5xLKbxg&expires=1725871561&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BANGLADESH", JAMUNA TV
-
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=N6giBFVn1RBe65-pgQMrBQ&expires=1725871580&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png" group-title="BANGLADESH", DEEPTO TV HD
-
+https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=NSil4b9i_98YQr3GjkDs8A&expires=1725871597&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BANGLADESH", DBC NEWS
-
+https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=9Vl0chWRi-1GU84QRDLd7w&expires=1725871614&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kyxby2Q/20240826-230739.png" group-title="BANGLADESH", NEWS 24 HD
-
+https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=ymr2IBKcGZMYEwEb1kE-BA&expires=1725871635&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESH", NAGORIK TV
-
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=kbUEbeeVqnhIxulNi67bNg&expires=1725871648&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png" group-title="BANGLADESH", BANGLA TV 
-
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHn2Zbm/20240826-230932.png" group-title="BANGLADESH", BANGLA TV EUROPE 
-
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png" group-title="BANGLADESH", ANANDA TV
-
+https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=fxAYbGvJcakm4LI9eMdivQ&expires=1725871791&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png" group-title="BANGLADESH", MOVIE BANGLA
-
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/34WswS6/20240826-230804.png" group-title="BANGLADESH", NEXUS TV HD
-
+https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=ANRT5vZsx-BtlD1KWTLTZQ&expires=1725871812&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png" group-title="BANGLADESH", GLOBAL TV HD
-
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-g.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="BANGLADESH", CHANNEL S HD
 
