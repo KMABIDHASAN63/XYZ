@@ -16,9 +16,9 @@ http://bdixiptvhub/join_our_telegram.m3u8
 https://bdix.proximitybd.xyz/jason.php?id=live-01
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXSPddd/20240827-010107.png" group-title="TOFFEE X BDIX IPTV HUB", T SPORTS LIVE 2
 https://bdix.proximitybd.xyz/jason.php?id=live-02
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F644%2Flogo%2F240x240%2Fmobile_logo_649814001655891557.png&w=256&q=75" group-title="TOFFEE X BDIX IPTV HUB", ZEE TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GF2Gt27/image-1.webp" group-title="TOFFEE X BDIX IPTV HUB", ZEE TV HD
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F804%2Flogo%2F240x240%2Fmobile_logo_370803001655891689.png&w=256&q=75" group-title="TOFFEE X BDIX IPTV HUB", ZEE CINEMA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q9kdNV7/image.webp" group-title="TOFFEE X BDIX IPTV HUB", ZEE CINEMA HD
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="TOFFEE X BDIX IPTV HUB", ZEE BANGLA
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
@@ -46,7 +46,7 @@ https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.co
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/1/logo/240x240/mobile_logo_310000001673183767.png" group-title="BANGLADESH", BTV WORLD
 
 
-#EXTINF:-1 tvg-logo="" group-title="BANGLADESH", SANGSAD TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rQmTNKf/20240907-003057.png" group-title="BANGLADESH", SANGSAD TV
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="BANGLADESH", ATN BANGLA HD
