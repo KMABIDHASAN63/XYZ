@@ -158,6 +158,15 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="BANGLADESH", CHANNEL S HD
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="BANGLADESH", JAGO NEWS 24
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BANGLADESH", TIME TELEVISION 
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BANGLADESH", DESHI TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="BANGLADESH", ME TV
 https://iptvbd.live/metv1080/1080.m3u8
 
@@ -167,4 +176,5 @@ https://weblive.nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLADESH", E TEN PRIME
 https://livess.ncare.live/live-orgin/voicetv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BANGLADESH", 
+#EXTINF:-1 tvg-logo="" group-title="BANGLADESH", THE CHANNEL TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/playlist.m3u8
