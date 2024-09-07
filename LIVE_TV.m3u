@@ -51,7 +51,7 @@ lhttps://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bon
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BANGLADESH", BTV HD 
-http://lifetvbd.xyz:8080/live/123/123/74.ts
+https://livess.ncare.live/live-orgin/Btv-g.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/1/logo/240x240/mobile_logo_310000001673183767.png" group-title="BANGLADESH", BTV WORLD
 https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=4RxN9w12ViRUwaDpeQVyLg&expires=1725871091&user=ef71b837ceef4cd18a6cf7069722d83d
@@ -156,5 +156,15 @@ https://livess.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-g.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="BANGLADESH", CHANNEL S HD
+https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="BANGLADESH", ME TV
+https://iptvbd.live/metv1080/1080.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="BANGLADESH", NANDAN TV
+https://weblive.nandansyst.com/hls/nandan.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BANGLADESH", E TEN PRIME
+https://livess.ncare.live/live-orgin/voicetv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BANGLADESH", 
