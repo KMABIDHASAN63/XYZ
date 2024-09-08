@@ -357,10 +357,10 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS", MINIMAX
 https://livetranscode.com/Minimax/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", HUNGAMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS", HUNGAMA
 http://xtv.ooo:8080/live/874246786/743567899/150480.ts
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", SUPER HUNGAMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS", SUPER HUNGAMA
 http://xtv.ooo:8080/live/874246786/743567899/381135.ts
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS", CARTOON NETWORK HD+
@@ -369,12 +369,6 @@ http://xtv.ooo:8080/live/874246786/743567899/153154.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="KIDS", DISCOVERY KIDS
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS", SUPER HUNGAMA
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS", HUNGAMA
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS", SPACETOON
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
