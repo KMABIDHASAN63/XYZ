@@ -232,6 +232,15 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglac
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2thQM7K/20240803-164328.png" group-title="KOLKATA", SUN BANGLA 
 
+#EXTINF:-1 tvg-logo="" group-title="KOLKATA", TARA BANGLA CINEMA
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KOLKATA", SANANDA TV
+http://54.38.79.60:2020/sananda/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KOLKATA", 
+
+#EXTINF:-1 tvg-logo="" group-title="KOLKATA", 
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1m0bGGS/20240803-102251.png" group-title="KOLKATA", KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
