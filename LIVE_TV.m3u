@@ -591,8 +591,8 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
 https://api.flixtronic.top/sportszx/cric/master.php?id=skyscric&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", SKY SPORTS MIX
 https://api.flixtronic.top/sportszx/cric/master.php?id=skysmixx&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", TNT SPORTS 
-https://api.flixtronic.top/sportszx/cric/master.php?id=bbtsp1&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", TNT SPORTS 1
+https://nowmesports.com/crichd/stream.php?id=bbtsp1&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", ESPN
 https://api.flixtronic.top/sportszx/cric/master.php?id=espnusa&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", WILLOW CRIC BUZZ
