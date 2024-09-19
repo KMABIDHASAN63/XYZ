@@ -16,7 +16,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", JonmoBhumi TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", Jamuna TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=100&uid=3788&deviceMac=00:1A:79:6D:8A:C6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", Jagoroni TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagoronitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", JagoNews24 TV
@@ -170,7 +170,7 @@ https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=xH9uG8L0xpf6Aj
 https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=a9cZAnKDbI1Z1JjI-8SMxQ&expires=1726463934&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BANGLADESH", JAMUNA TV
-
+http://tv.cloudcdn.me:80/live.ts?channelId=100&uid=3788&deviceMac=00:1A:79:6D:8A:C6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png" group-title="BANGLADESH", DEEPTO TV HD
 
@@ -552,9 +552,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", T SPORTS HD 1
-https://ekdilhai.pro/Gazi_TV/index.m3u8
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-01   
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", T SPORTS HD 2
-
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-02
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 1 HD
 http://ekdilhai.pro/SPTEN1HD/mpegts?token=d53bcd0976c324e9a8c5ea39f0b9bb68
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMcZt2G/20240803-110921.png" group-title="SPORTS", SONY SPORTS TEN 2 HD
@@ -574,9 +574,9 @@ http://124.29.225.205:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 3 HD
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS SELECT 1 HD
-
+http://tv.mototvlive.net:8880/84747/84747/1526
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS SELECT 2 HD
-http://ekdilhai.pro/AF_S2/mpegts
+http://tv.mototvlive.net:8880/84747/84747/1550
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", SPORTS 18 HD
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", TEN SPORTS HD
