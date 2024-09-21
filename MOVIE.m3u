@@ -1,9 +1,10 @@
 #EXTM3U x-tvg-url="epg"
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wcxj8bc/bdixiptvhub.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
 http://bdixiptvhub/join_our_telegram.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BD | MOVIE", 1
-http://bdixiptvhub/join_our_telegram.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wR9mY94/images-3.jpg" group-title="BD | MOVIE", TOOFAN
+https://rty67.b-cdn.net/upload/videos/2024/09/[Fibwatch.Com]Toofan.2024.1080p.new.mkv
 
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA | MOVIE", 2
 http://bdixiptvhub/join_our_telegram.m3u8
