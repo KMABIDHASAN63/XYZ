@@ -249,7 +249,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 http://217.20.112.199/colorsbangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA", COLORS BANGLA CINEMA 
-http://14.102.123.50:5001/live/1657.m3u8
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB﻿
 
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA", JALSHA MOVIES 
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=13433&deviceMac=00:1A:79:00:97:A1
@@ -559,6 +559,10 @@ http://tv.cloudcdn.me/live.ts?channelId=470&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 https://cdn2.pishow.tv/live/156/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIE", B4U KUDAK
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", & FLIX HD 
+http://103.84.57.155:8000/play/a083/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIE", ZEE BOLLYWOOD 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIE", ZEE ACTION
