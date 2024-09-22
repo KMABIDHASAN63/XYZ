@@ -110,7 +110,7 @@ https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=BaA3qagBbjasd
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sangsad_tv
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="BANGLADESH", ATN BANGLA HD
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_bangla
+http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F:F3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zPFbF67/20240826-230349.png" group-title="BANGLADESH", EKUSHEY TV HD
 https://ekusheyserver.com/etvlivesn.m3u8
